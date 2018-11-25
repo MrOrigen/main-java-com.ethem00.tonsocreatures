@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tonsocreatures",
+  "name": "Tons O' Creatures",
+  "description": "Adds tons of creatures to your Minecraft world!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MC: ethem00 / Steam: MrOrigen"],
+  "credits": "Ethem Ficici",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
